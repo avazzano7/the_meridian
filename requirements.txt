@@ -1,3 +1,5 @@
 yfinance
 feedparser
 python-dotenv
+lxml
+requests
